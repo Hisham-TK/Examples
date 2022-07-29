@@ -9,7 +9,7 @@
   "author": "Hisham Taha Kamal-Al-Din <hisham.taha.work@gmail.com> (https://github.com/Hisham-TK)",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^5.9.14"
+    "mongoose": "^6.4.6"
   },
   "devDependencies": {}
 }
