@@ -30,7 +30,7 @@
     "jsreport-core": "2.10.1",
     "jsreport-handlebars": "2.1.0",
     "jsreport-phantom-pdf": "2.6.1",
-    "puppeteer": "5.5.0",
+    "puppeteer": "13.3.0",
     "reflect-metadata": "0.1.13",
     "rimraf": "3.0.2",
     "rxjs": "6.6.3"
