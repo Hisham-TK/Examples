@@ -25,7 +25,7 @@
     "@nestjs/core": "7.5.5",
     "@nestjs/platform-express": "7.5.5",
     "@types/jsreport": "2.9.1",
-    "jsreport": "2.11.0",
+    "jsreport": "3.0.0",
     "jsreport-chrome-pdf": "1.10.0",
     "jsreport-core": "2.10.1",
     "jsreport-handlebars": "2.1.0",
